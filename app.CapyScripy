@@ -1,0 +1,5 @@
+--header
+    title.large = "Hola mundo"
+    header.logo(url) = "https://ejemplo.com/logo.png"
+    header.responsive.title-large = "HM"
+    header.responsive.logo(url) = "https://ejemplo.com/logo-small.png"
